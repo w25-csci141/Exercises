@@ -16,7 +16,7 @@
    ```
  ##### 1.1. What does the program print?
  ##### 1.2. Modify the function to return all occurrences of the target in the list.
- ##### 1.3. Allow the function to search for partial matches (e.g., "ar" should match "Charlie").
+ ##### 1.3. On top of 1.2, allow the function to search for partial matches (e.g., "ar" should match "Charlie").
 
 #### 2. For the following program, answer the questions:
    ```python
