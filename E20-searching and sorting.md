@@ -31,24 +31,24 @@
 
    ```
  ##### 2.1. What does the program print?
- ##### 2.1. Modify the function to count how many times the keyword appears in the text.
+ ##### 2.2. Modify the function to count how many times the keyword appears in the text.
+ ##### 2.3. On top of 2.2, make the function handle case-insensitive searches. 
 
 #### 3. For the following program, answer the questions:
    ```python
-   grades = {"Alice": 85, "Bob": 92, "Charlie": 78, "David": 90}
-
    def find_grade(student_name):
        return grades.get(student_name, "Student not found")
 
+   grades = {"Alice": 85, "Bob": 92, "Charlie": 78, "David": 90}
    print(find_grade("Charlie")) 
    print(find_grade("Eve")) 
 
    ```
  ##### 3.1. What does the program print?
- ##### 3.2  Modify the function to return "Excellent" (90-99), "Good", or "Needs Improvement" based on the grade range.
+ ##### 3.2. Modify the function to set the grade to 0 for students whose names are not found .
 
-
-#### 4. For the following program, answer the questions:
+ 
+ #### 4. For the following program, answer the questions:
    ```python
    names = ["Zara", "Alice", "Charlie", "Bob"]
    sorted_names = sorted(names) 
@@ -57,22 +57,10 @@
    ```
  ##### 4.1. What does the program print?
  ##### 4.2  Modify the function to sort in reverse alphabetical order.
- ##### 4.3  Allow the function to ignore case sensitivity when sorting.
  
  #### 5. For the following program, answer the questions:
-   ```python
-   scores = {"Alice": 85, "Bob": 92, "Charlie": 78, "David": 90}
-
-   sorted_scores = sorted(scores.items(), key=lambda item: item[1]) 
-   print(sorted_scores)  
-
-   ```
- ##### 5.1. What does the program print?
- ##### 5.2  Modify the sorting to display highest scores first.
- ##### 5.3  Add an option for sorting by name or by score.
-
- #### 6. For the following program, answer the questions:
-   ```python
+  
+  ```python
    def bubble_sort(numbers):
        n = len(numbers)
        for i in range(n - 1):
@@ -83,8 +71,8 @@
 
    nums = [5, 3, 8, 1, 2]
    print(bubble_sort(nums))
-
    ```
- ##### 6.1. What does the program print?
- ##### 6.2  Modify the function to sort in descending order.
- ##### 6.3  Modify the function to sort tuples of (name, age) based on age.
+ ##### 5.1. What does the program print?
+ ##### 5.2  Modify the sorting to display highest number first.
+
+ 
