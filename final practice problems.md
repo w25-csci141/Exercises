@@ -1,9 +1,10 @@
-# Practice Problems for the Final Exam - more details to be shared in class.
+# Practice Problems for the Final Exam 
+## - more details to be shared in class.
 
 ## Section 1: Mark each statement as True (T) or False (F), and explain your answers briefly (15 points)
 
 1. In Python, `while True:` creates an infinite loop.
-2. The `import random` statement loads all functions from the random module into the global namespace. 
+2. The statement `import random` allows you to access the functions in the `random` module by using `random.function_name()`.
 3. A function in Python must always return a value explicitly using the return statement.
 4. A function can return multiple values using tuple unpacking.
 5. A tuple can contain both mutable and immutable objects.
