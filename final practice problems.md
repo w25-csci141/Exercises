@@ -5,7 +5,7 @@
 
 1. In Python, `while True:` creates an infinite loop.
 2. The statement `import random` allows you to access the functions in the `random` module by using `random.function_name()`.
-3. A function in Python must always return a value explicitly using the return statement.
+3. A function in Python must always return a value explicitly using the `return` statement.
 4. A function can return multiple values using tuple unpacking.
 5. A tuple can contain both mutable and immutable objects.
 6. Strings in Python are immutable, meaning they cannot be changed after they are created.
