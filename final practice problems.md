@@ -11,7 +11,7 @@
 6. Strings in Python are immutable, meaning they cannot be changed after they are created.
 7. The `append()` method in a list creates a new list instead of modifying the original one.
 8. A dictionary key must always be an integer.
-9. The statement file = open(filename, "r") automatically closes the file once the block finishes execution.
+9. The statement `file = open(filename, "r")` automatically closes the file once the block finishes execution.
 10. In Python, variables store actual values rather than references to objects.
 
 ## Section 2: Multiple Choice: Circle the correct answer.(10 points)
