@@ -105,8 +105,7 @@ print("Copy3", copy3)
 print("Copy4", copy4) 
  ```
 
-3. E19-2
-4. E20
+3. E14-19, E19-2, E20
 
 
  
