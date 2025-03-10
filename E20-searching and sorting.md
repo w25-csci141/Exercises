@@ -35,11 +35,11 @@
  ##### 2.3. On top of 2.2, make the function handle case-insensitive searches. 
 
 #### 3. For the following program, answer the questions:
+   grades = {"Alice": 85, "Bob": 92, "Charlie": 78, "David": 90}
    ```python
    def find_grade(student_name):
        return grades.get(student_name, "Student not found")
 
-   grades = {"Alice": 85, "Bob": 92, "Charlie": 78, "David": 90}
    print(find_grade("Charlie")) 
    print(find_grade("Eve")) 
 
