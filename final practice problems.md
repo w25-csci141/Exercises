@@ -1,4 +1,4 @@
-# Practice Problems for the Final Exam
+# Practice Problems for the Final Exam - more details to be shared in class.
 
 ## Section 1: Mark each statement as True (T) or False (F), and explain your answers briefly (15 points)
 
