@@ -96,7 +96,7 @@ print(copy3)
 copy4 = list(original_list)
 print(copy4)
 
-# Modify the original list
+# Method 5
 original_list[0] = 99
 
 print("Original list:", original_list)
